@@ -29,10 +29,10 @@ The process involves key stages such as synthesis, where RTL code is converted i
 In the world of embedded systems and semiconductor manufacturing, what we often refer to as a "chip" is, in reality, just the *chip package*. This package serves as a protective layer around the delicate silicon die, which contains the actual circuitry of the chip. The package plays a critical role in maintaining the integrity and performance of the chip, providing physical support, protecting it from environmental factors, and enabling the chip to be mounted onto a board.
 
 At the heart of the package lies the actual manufactured silicon chip, which is usually connected to the external environment using a method called *wire bonding*. Wire bonding uses fine wires to create electrical connections between the chip and the package, facilitating communication with the outside world. This method has been widely used due to its reliability and cost-effectiveness in mass production.
-![Image 1: QFN-48](![image](https://github.com/user-attachments/assets/b8d4054e-4900-4838-95be-dcea01f6bc24)
-)
-![Image 2: Chip Package Illustration](![image](https://github.com/user-attachments/assets/33d265ed-006b-4e1d-a8e5-70590d1a8d02)
-)
+![Image 1: QFN-48](https://github.com/user-attachments/assets/b8d4054e-4900-4838-95be-dcea01f6bc24)
+
+![Image 2: Chip Package Illustration](https://github.com/user-attachments/assets/33d265ed-006b-4e1d-a8e5-70590d1a8d02)
+
 
 
 ---
