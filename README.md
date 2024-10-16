@@ -12,7 +12,9 @@ This project is part of the **VSD SoC NASSCOM Course**, combining both theory an
 
 ## Introduction
 
-Brief overview of the course objectives and key concepts.
+The OpenLane ASIC flow is a comprehensive design process used for developing Application Specific Integrated Circuits (ASICs). This flow guides designers through multiple stages, starting with a high-level hardware description in Register Transfer Level (RTL) and ending with a Graphical Data System II (GDSII) file, which is essential for chip fabrication. Each step, from synthesis to physical layout, plays a crucial role in transforming a conceptual design into a manufacturable chip.
+
+The process involves key stages such as synthesis, where RTL code is converted into a gate-level netlist, and physical design steps like floorplanning and power planning. The OpenLane flow integrates these stages seamlessly, ensuring that design constraints are met and that the final chip layout is optimized for performance, power, and area. Through this structured approach, designers can efficiently transition from design logic to a ready-for-fabrication layout.
 
 ---
 
