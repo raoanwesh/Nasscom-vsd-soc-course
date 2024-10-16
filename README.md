@@ -6,8 +6,6 @@ This project is part of the **VSD SoC NASSCOM Course**, combining both theory an
 1. [Introduction](#introduction)
 2. [Theory and Lab Sessions](#theory-and-lab-sessions)
 3. [Conclusion](#conclusion)
-4. [Contact](#contact)
-
 ---
 
 ## Introduction
@@ -43,8 +41,10 @@ The chip consists of two major regions: the *core* and the *pads*. The **core** 
 
 The chip is produced in a *foundry*, a specialized facility that fabricates semiconductor devices. Foundries provide *Foundry IPs*—pre-designed blocks of logic such as SRAM, PLLs, and ADC/DACs—that can be integrated into designs. These IPs require human expertise to develop, while simpler, repeatable logic blocks known as *macros* are more standardized and reusable.
 
-![Image 1: Chip Layout](image3_url)
-![Image 2: Wafer Die and Foundry IPs](image4_url)
+![image](https://github.com/user-attachments/assets/667b737c-641b-43c0-ac78-a8b3665d821c)
+
+![image](https://github.com/user-attachments/assets/041d3571-d42f-4ec2-ae2d-4b7dab4de9bb)
+)
 
 ---
 
@@ -56,8 +56,9 @@ Once compiled, the assembly language program is converted into **machine code**,
 
 The final stage in this process is the **Place and Route (PnR)** flow, where the design is translated into a layout file (GDSII), which is sent to the foundry for fabrication.
 
-![Image 1: C to Assembly to Machine Code Flow](image5_url)
-![Image 2: RTL to Netlist Synthesis](image6_url)
+![image](https://github.com/user-attachments/assets/456c940c-a0ee-49be-86bd-f8a8804c44fa)
+
+![image](https://github.com/user-attachments/assets/ec4446fd-e8a6-4dbf-96fb-bbead8c12302)
 
 ---
 
@@ -69,13 +70,29 @@ In this course, we focus on the **SkyWater 130nm PDK**, specifically the `sky130
 
 OpenLANE offers a set of open-source tools for each step of the design process, making it possible to take an RTL design and produce a manufacturable layout, all within an open-source framework. It democratizes chip design by allowing users to access tools and flows that were traditionally locked behind expensive commercial licenses.
 
-![Image 1: PDK Components Overview](image7_url)
-![Image 2: OpenLANE Flow with Sky130 PDK](image8_url)
+ASIC Desgin flow in OpenLANE involves these steps:
+1. **Specification**
+2. **RTL Design**
+3. **Functional Verification**
+4. **Synthesis**
+5. **Design for Test (DFT)**
+6. **Floorplanning**
+7. **Power Planning**
+8. **Placement**
+9. **Clock Tree Synthesis (CTS)**
+10. **Routing**
+11. **Physical Verification**
+12. **Sign-Off**
+13. **GDSII Generation**
+14. **Tape-Out**
+15. **Fabrication**
+16. **Packaging and Testing**
+17. **Post-Silicon Validation**
+![image](https://github.com/user-attachments/assets/78e38bed-fb02-4a8e-81e8-8de6ab39ca77)
+![image](https://github.com/user-attachments/assets/d2407621-e9e4-4a40-8480-528156e5e579)
+![image](https://github.com/user-attachments/assets/906be7dd-de8e-46be-b55c-eef250228c84)
+![image](https://github.com/user-attachments/assets/edc6dc99-bc94-42aa-b8fe-73a748ff1c4f)
 
 
 
 ---
-
-## Contact
-
-For support, contact us at [your-email@example.com].
