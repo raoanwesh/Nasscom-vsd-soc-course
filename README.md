@@ -144,9 +144,25 @@ exit
 
 # Exit from OpenLANE flow docker sub-system
 exit
-'''
 
-ash
+```
+## Outputs:
+![image](https://github.com/user-attachments/assets/1dd0a2a4-d275-45bf-abd6-73b84a930048)
+![image](https://github.com/user-attachments/assets/3aa4a8da-e400-4dc9-964f-58724395f2a8)
+![image](https://github.com/user-attachments/assets/1c88d59b-73a9-48c8-81e0-90e09d95b3d6)
+![image](https://github.com/user-attachments/assets/55291ad6-8549-4b96-bad8-c3169b2456cb)
+![image](https://github.com/user-attachments/assets/d2b803b7-7cc2-47cb-9481-1d90e814214e)
+![image](https://github.com/user-attachments/assets/c4c2c735-fe4f-45ea-bc4b-474f9d9bb524)
+### FF Ratio:
+![image](https://github.com/user-attachments/assets/3243e874-c25d-49ac-a10c-af8ed15e8401)
+![image](https://github.com/user-attachments/assets/0c5f785a-ebd9-422b-9b0d-003ff6cf6aca)
+
+
+
+
+
+
+
 
 
 
