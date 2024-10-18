@@ -1,4 +1,4 @@
-# VSD SoC NASSCOM Course
+![image](https://github.com/user-attachments/assets/1ddce3c3-2f17-4823-8ad0-b04c558180bf)![image](https://github.com/user-attachments/assets/4cb6d041-085f-485b-9cec-1478cb137cc9)# VSD SoC NASSCOM Course
 
 This project is part of the **VSD SoC NASSCOM Course**, combining both theory and practical lab sessions for a comprehensive learning experience.
 
@@ -115,6 +115,8 @@ Percentage of DFF's = Flop Ratio * 100
 ### Commands to Run 'picorv32a' Design Synthesis Using OpenLANE
 ## Commands to Run OpenLANE Flow for 'picorv32a'
 
+### OpenLANE Flow Commands
+
 ```bash
 # Change directory to openlane flow directory
 cd Desktop/work/tools/openlane_working_dir/openlane
@@ -137,10 +139,14 @@ prep -design picorv32a
 # Run synthesis
 run_synthesis
 
-
-
 # Exit from OpenLANE flow
 exit
 
 # Exit from OpenLANE flow docker sub-system
 exit
+'''
+
+ash
+
+
+
