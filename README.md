@@ -101,13 +101,11 @@ ASIC Desgin flow in OpenLANE involves these steps:
 1. **Run the 'picorv32a' design synthesis using OpenLANE flow** and generate necessary outputs.
 2. **Calculate the flop ratio**:
 
-\[
-\text{Flop Ratio} = \frac{\text{Number of D Flip Flops}}{\text{Total Number of Cells}}
-\]
 
-\[
-\text{Percentage of DFF's} = \text{Flop Ratio} \times 100
-\]
+Flop Ratio = (Number of D Flip Flops) / (Total Number of Cells)
+
+Percentage of DFF's = Flop Ratio * 100
+
 
 
 
