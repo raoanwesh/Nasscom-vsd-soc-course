@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bc3d9ea1-e8a1-452b-a3ee-d7defa521cab)
+
 This project is part of the **VSD SoC NASSCOM Course**, combining both theory and practical lab sessions for a comprehensive learning experience.
 
 ## Table of Contents
